@@ -4,6 +4,8 @@ Shows the keyboard shortcut whenever you open something through the Omarchy
 menu, the app launcher, or the dock that already has a keybinding. The toast
 stays for 15 seconds, or until you click it or its close button.
 
+![Key Promoter toast showing SUPER + SHIFT + B for Browser](preview.png)
+
 Based on Forrest Knight's [omarchy-key-promoter](https://github.com/ForrestKnight/omarchy-key-promoter) (MIT), with these fixes for Omarchy 4.5:
 
 - Lua bindings (`hl.dsp.global("omarchy:panel.…")`), so Emojis and Clipboard are recognized.
