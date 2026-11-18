@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "daferia.key-promoter",
+  "name": "Key Promoter",
+  "version": "1.0.0",
+  "author": "daferia",
+  "license": "MIT",
+  "description": "Shows the keyboard shortcut for 15 seconds whenever you open something from the menu, launcher or dock that already has a keybinding. Based on Forrest Knight's omarchy-key-promoter.",
+  "keywords": [
+    "keybindings",
+    "shortcuts",
+    "learn",
+    "toast"
+  ],
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  },
+  "homepage": "https://github.com/Daferia/omarchy-key-promoter",
+  "repository": "https://github.com/Daferia/omarchy-key-promoter"
+}
